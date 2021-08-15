@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mmondani/MIoT_DAM_Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mmondani/MIoT_DAM_Proyecto_Ionic.git
